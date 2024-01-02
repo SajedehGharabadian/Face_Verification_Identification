@@ -2,7 +2,7 @@
 
 ## Description
 
-◻️ Use [insightface](https://github.com/deepinsight/insightface) libarary for verification.
+◻️ Use [insightface](https://github.com/deepinsight/insightface) libarary for verification face.
 
 ## How to install
 ```

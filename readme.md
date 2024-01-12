@@ -1,4 +1,4 @@
-# Face Verification
+# Face Verification and Identification 
 
 ## Description
 
@@ -8,6 +8,8 @@
 ```
 pip insatll -r requirements.txt
 ```
+
+# Verification
 
 ## How to run
 ```
